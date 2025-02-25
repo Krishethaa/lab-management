@@ -2,7 +2,7 @@ import React from 'react';
 
 const Home = () => {
   const labTypes = [
-    { name: 'Computer Labs', icon: '💻' },
+    { name: ' Labs', icon: '💻' },
     { name: 'Hardware Labs', icon: '🔧' },
     { name: 'Chemical Labs', icon: '🧪' },
     { name: 'Electrical Labs', icon: '⚡' },
